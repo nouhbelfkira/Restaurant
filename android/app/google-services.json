@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076986815126",
+    "project_id": "restaurent-4fb37",
+    "storage_bucket": "restaurent-4fb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076986815126:android:5c16679d8b9a143dda58b7",
+        "android_client_info": {
+          "package_name": "com.nouh.belfkira.restaurent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076986815126-89ms9imt1m4pfd8587pbfmf7nbh9eml0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nouh.belfkira.restaurent",
+            "certificate_hash": "c510691523f4f30459478d24c66ae18e40285317"
+          }
+        },
+        {
+          "client_id": "1076986815126-vee9jj9r9ct5m53tmao318ght27etut2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqD_VC-33Elo42SO0u48jdhgDSRmUOZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076986815126-vee9jj9r9ct5m53tmao318ght27etut2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

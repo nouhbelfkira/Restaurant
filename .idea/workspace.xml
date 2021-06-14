@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b21f5aee-398b-49f1-9bbb-b900f1defbcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/Manifest.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/Manifest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/gen/com/jideguru/restaurant_ui_kit/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/Manifest.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/Manifest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/gen/com/jideguru/restaurant_ui_kit/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/jideguru/restaurant_ui_kit/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/jideguru/restaurant_ui_kit/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/Manifest.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/Manifest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/gen/com/jideguru/restaurant_ui_kit/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/app_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/app_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/categories_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/categories_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/checkout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/checkout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/details.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/dishes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/dishes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/favorite_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/favorite_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/join.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/join.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/search.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/splash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/splash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/walkthrough.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/walkthrough.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/util/const.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/util/const.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/cart_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/cart_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/grid_product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/grid_product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/home_category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/home_category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/slider_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/slider_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tWsP0CJrF6RZBfWqgvDMNIbQ0E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b21f5aee-398b-49f1-9bbb-b900f1defbcc" name="Default Changelist" comment="" />
+      <created>1622896151792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622896151792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom" timestamp="1623681340382">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1623681340382" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center" timestamp="1623681340381">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1623681340381" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left" timestamp="1623681340380">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1623681340380" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right" timestamp="1623681340381">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1623681340381" />
+    <state x="347" y="137" width="586" height="548" key="find.popup" timestamp="1622988444499">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="347" y="137" width="586" height="548" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1622988444499" />
+  </component>
+</project>
